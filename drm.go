@@ -16,7 +16,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/YoshihikoAbe/fsdump"
+	"github.com/Ambloplites/fsdump"
 	"github.com/dgryski/go-camellia"
 )
 

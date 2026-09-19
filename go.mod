@@ -1,9 +1,9 @@
-module github.com/YoshihikoAbe/extdrm
+module github.com/Ambloplites/extdrm
 
 go 1.24.2
 
 require (
-	github.com/YoshihikoAbe/fsdump v0.0.1
+	github.com/Ambloplites/fsdump v0.0.5
 	github.com/dgryski/go-camellia v0.0.0-20191119043421-69a8a13fb23d
 	github.com/spf13/cobra v1.8.1
 )

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/YoshihikoAbe/extdrm"
+	"github.com/Ambloplites/extdrm"
 	"github.com/spf13/cobra"
 )
 

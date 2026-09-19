@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/YoshihikoAbe/extdrm"
-	"github.com/YoshihikoAbe/fsdump"
+	"github.com/Ambloplites/extdrm"
+	"github.com/Ambloplites/fsdump"
 	"github.com/spf13/cobra"
 )
 

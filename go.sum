@@ -1,5 +1,5 @@
-github.com/YoshihikoAbe/fsdump v0.0.1 h1:y8puE1fwGisIU2mPUyrkwOC3HlYvhRCsIWDlWCRkKBY=
-github.com/YoshihikoAbe/fsdump v0.0.1/go.mod h1:aXvDhFrth+5KPfxZM7xMZ10fPS61fKkeL1Uc1Ui1f2M=
+github.com/Ambloplites/fsdump v0.0.5 h1:f87/AH2A1313l6n5dHhebiPSomINoKI2pemjgyh8U2Y=
+github.com/Ambloplites/fsdump v0.0.5/go.mod h1:g47rI56Fkj3t2gGnlrkjkFW69VKZX7uAQxjijkvlC4A=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/dgryski/go-camellia v0.0.0-20191119043421-69a8a13fb23d h1:CPqTNIigGweVPT4CYb+OO2E6XyRKFOmvTHwWRLgCAlE=
 github.com/dgryski/go-camellia v0.0.0-20191119043421-69a8a13fb23d/go.mod h1:QX5ZVULjAfZJux/W62Y91HvCh9hyW6enAwcrrv/sLj0=

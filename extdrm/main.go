@@ -1,6 +1,6 @@
 package main
 
-import "github.com/YoshihikoAbe/extdrm/extdrm/cmd"
+import "github.com/Ambloplites/extdrm/extdrm/cmd"
 
 func main() {
 	cmd.Execute()
